@@ -1,0 +1,22 @@
+body {
+  font-family: "DM Sans", sans-serif;
+
+}
+
+.container {
+  margin-top: 10rem;
+}
+
+h1,
+h4 {
+  color: #1e0e62;
+}
+
+.fas {
+  color: #e93a7d;
+}
+
+::selection {
+  background: #e93a7d;
+  color: #ffffff;
+}
